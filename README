@@ -1,0 +1,12 @@
+Alternative install asleap
+
+
+1. git clone https://github.com/warecrer/asleap
+2. cd asleap
+3. extract that file named asleap.zip
+4. cd asleap
+5. sudo dpkg -i libxcrypt1_2.4-4_amd64.deb
+6. sudo dpkg -i libxcrypt-dev_2.4-4_amd64.deb 
+7. make
+
+Thanks me later ;)
